@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
 .light {
-  --mainColor: #64bcf4;
-  --hoverColor: #5bacdf;
-  --backgroundColor: #f1f8fc;
+  --mainColor: rgb(206, 161, 77);
+  --hoverColor: rgb(219, 152, 52);
+  --backgroundColor: rgb(249, 241, 225);
   --darkOne: #312f3a;
   --darkTwo: #45424b;
   --lightOne: #919191;
