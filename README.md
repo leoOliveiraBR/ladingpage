@@ -7,7 +7,7 @@
    - [Fontes Consultadas](#fontes-consultadas)  
    - [Autores](#autores)  
 
-# trabalho de recuperação -  LAN PAGE
+# trabalho de recuperação -  LANDINGPAGE
 
 <img src="img/capa.png" width="100%">
    
@@ -20,22 +20,19 @@ O objetivo desta landing page é divulgar informações atrativas e relevantes s
 
 ## Funcionalidades
 °Página inicial apresentando informações sobre a cafeteria.  
-°Destaque para promoções para atrair a atenção dos clientes. 
-°Seção dedicada a mostrar os produtos e serviços oferecidos pela cafeteria. 
-°Links de navegação para facilitar o acesso às diferentes seções da página. 
-i°ncentivando os visitantes a conhecerem mais sobre os produtos.  
-
-
-
+°Destaque para promoções para atrair a atenção dos clientes.    
+°Seção dedicada a mostrar os produtos e serviços oferecidos pela cafeteria.    
+°Links de navegação para facilitar o acesso às diferentes seções da página.   
+i°ncentivando os visitantes a conhecerem mais sobre os produtos.     
 
 ## CODIGOS
 
 <img src="img/OPA.gif" width="100%">
-<img src="img/FUNCIONALIDADES.png" width="20%">
+<img src="img/FUNCIONALIDADES.png" width="30%">
 
 index.html: Este arquivo é a página principal da aplicação, contendo a estrutura HTML e referências aos estilos e scripts necessários.
 
-style.css: Arquivo CSS responsável pelo estilo e layout da página.
+*style.css:* Arquivo CSS responsável pelo estilo e layout da página.
 
 app.js: Arquivo JavaScript que controla a funcionalidade do modo claro/escuro.
 
@@ -46,9 +43,9 @@ app.js: Arquivo JavaScript que controla a funcionalidade do modo claro/escuro.
 °JS   
 
 ## Fontes Consultadas
-[Bootstrap](https://getbootstrap.com/)     
-[alura](https://www.alura.com.br/artigos/escrever-bom-readme)       
+[Inteligência Artifcial](https://chat.openai.com/auth/login)     
+[youtube](https://youtu.be/RaITAxEdTDY?si=SYE6ZOLW1EYN8arR)       
 [répositorio github](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)    
 
 ## Autores
-Leonardo de Oliveira
+ [Leonardo de Oliveira](https://github.com/leoOliveiraBR)
