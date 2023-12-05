@@ -1,9 +1,10 @@
 # Índice
-   - [Projeto - Aprendendo a escrever um README](#projeto---aprendendo-a-escrever-um-readme)  
+   - [Projeto - Aprendendo a escrever um README](#trabalho-de-recupera%C3%A7%C3%A3o----lan-page)  
    - [Descrição](#descri%C3%A7%C3%A3o)  
    - [Introdução](#introdu%C3%A7%C3%A3o)  
-   - [Funcionalidades](#funcionalidades)  
-   - [Tecnologias Utilizadas](#tecnologias-utilizadas)  
+   - [Funcionalidades](#funcionalidades)
+   - [codigos](#codigos)
+   - [Tecnologias Utilizadas](https://github.com/leoOliveiraBR/ladingpage#tecnologias-utilizadas)  
    - [Fontes Consultadas](#fontes-consultadas)  
    - [Autores](#autores)  
 
