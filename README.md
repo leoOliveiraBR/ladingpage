@@ -7,28 +7,43 @@
    - [Fontes Consultadas](#fontes-consultadas)  
    - [Autores](#autores)  
 
-# trabalho de recuperação -  Landing Page
+# trabalho de recuperação -  LAN PAGE
 
-<img src="img/capa.png" width="40%">
+<img src="img/capa.png" width="100%">
    
-## DESAFIO
+## DESCRIÇÃO
 criar uma página do tipo Landing page para um novo negócio que está abrindo na Saul Elkind, uma cafeteria. A ideia é oferecer promoções e anunciar os produtos e serviços desse novo negócio aos potenciais consumidores da região. A empresa usará sua landing page para divulgar o início das operações do negócio pelo instagram institucional.
 
 
 ## Introdução 
-O objetivo desta landing page é fornecer informações atrativas e relevantes sobre o novo negócio na Saul Elkind, criando um ambiente online que destaca as promoções, produtos e serviços oferecidos pela cafeteria.
+O objetivo desta landing page é divulgar informações atrativas e relevantes sobre o novo negócio na Saul Elkind, criando um ambiente online que destaca as promoções, produtos e serviços oferecidos pela cafeteria.
 
 ## Funcionalidades
-Página inicial apresentando a proposta e convidando os visitantes a explorarem mais sobre a cafeteria.
-Destaque para promoções exclusivas para atrair a atenção dos potenciais clientes.
-Seção dedicada a mostrar os produtos e serviços oferecidos pela cafeteria.
-Links de navegação para facilitar o acesso às diferentes seções da página.
-Chamada para ação (CTA) incentivando os visitantes a conhecerem mais sobre os produtos.  
+°Página inicial apresentando informações sobre a cafeteria.  
+°Destaque para promoções para atrair a atenção dos clientes. 
+°Seção dedicada a mostrar os produtos e serviços oferecidos pela cafeteria. 
+°Links de navegação para facilitar o acesso às diferentes seções da página. 
+i°ncentivando os visitantes a conhecerem mais sobre os produtos.  
 
+
+
+
+## CODIGOS
+
+<img src="img/OPA.gif" width="100%">
+<img src="img/FUNCIONALIDADES.png" width="20%">
+
+index.html: Este arquivo é a página principal da aplicação, contendo a estrutura HTML e referências aos estilos e scripts necessários.
+
+style.css: Arquivo CSS responsável pelo estilo e layout da página.
+
+app.js: Arquivo JavaScript que controla a funcionalidade do modo claro/escuro.
+
+/img: Pasta contendo imagens utilizadas na página.
 ### Tecnologias Utilizadas
 °HTML5    
 °CCS3       
-°BOOTSTRAP-5   
+°JS   
 
 ## Fontes Consultadas
 [Bootstrap](https://getbootstrap.com/)     
