@@ -8,7 +8,7 @@
    - [Fontes Consultadas](#fontes-consultadas)  
    - [Autores](#autores)  
 
-# trabalho de recuperação -  LANDINGPAGE 🚀
+# trabalho de recuperação -  Landing Page 🚀
 
 <img src="img/capa.png" width="100%">
    
