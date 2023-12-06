@@ -13,11 +13,11 @@
 <img src="img/capa.png" width="100%">
    
 ## DESCRIÇÃO📜
-criar uma página do tipo Landing page para um novo negócio que está abrindo na Saul Elkind, uma cafeteria. A ideia é oferecer promoções e anunciar os produtos e serviços desse novo negócio aos potenciais consumidores da região. A empresa usará sua landing page para divulgar o início das operações do negócio pelo instagram institucional.
+desenvolver uma página do tipo Landing page para um novo negócio que está abrindo na Saul Elkind, uma cafeteria. A ideia é oferecer promoções e anunciar os produtos e serviços desse novo negócio aos potenciais consumidores da região. A empresa usará sua landing page para divulgar o início das operações do negócio pelo instagram institucional.
 
 
 ## Introdução📖
-O objetivo desta landing page é divulgar informações atrativas e relevantes sobre o novo negócio na Saul Elkind, criando um ambiente online que destaca as promoções, produtos e serviços oferecidos pela cafeteria.
+esse landing page  divulga informações atrativas e relevantes sobre o novo negócio na Saul Elkind, criando um ambiente online que divulga o serviços oferecidos pela cafeteria.
 
 ## Funcionalidades⚙️
 °Página inicial apresentando informações sobre a cafeteria.  
