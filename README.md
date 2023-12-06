@@ -1,5 +1,5 @@
 # Índice
-   - [Projeto - Aprendendo a escrever um README](#trabalho-de-recupera%C3%A7%C3%A3o----lan-page)  
+   - [trabalho de recuperação - Landing Page ](#trabalho-de-recupera%C3%A7%C3%A3o----lan-page)  
    - [Descrição](#descri%C3%A7%C3%A3o)  
    - [Introdução](#introdu%C3%A7%C3%A3o)  
    - [Funcionalidades](#funcionalidades)
