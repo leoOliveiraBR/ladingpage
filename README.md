@@ -21,10 +21,10 @@ O objetivo desta landing page é divulgar informações atrativas e relevantes s
 
 ## Funcionalidades⚙️
 °Página inicial apresentando informações sobre a cafeteria.  
-°Destaque para promoções para atrair a atenção dos clientes.    
-°Seção dedicada a mostrar os produtos e serviços oferecidos pela cafeteria.    
+°atrair a atenção dos clientes.    
+°mostrar os produtos e serviços oferecidos pela cafeteria.    
 °Links de navegação para facilitar o acesso às diferentes seções da página.   
-i°ncentivando os visitantes a conhecerem mais sobre os produtos.     
+°incentivando os visitantes a conhecerem mais sobre os produtos.     
 
 ## CODIGOS🦾
 
